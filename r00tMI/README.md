@@ -14,4 +14,4 @@ What you will learn:
 
 ## Syllabus
 
-![image-20200627141224802](/Users/riccardo/Desktop/repositories/presentations/r00tMI/assets/image-20200627141224802.png)
+![image-20200627141224802](assets/image-20200627141224802.png)
